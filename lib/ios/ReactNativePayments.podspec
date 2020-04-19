@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency 'React'
-  s.dependency 'Stripe'
-  s.dependency 'Braintree'
+  # s.dependency 'Stripe'
+  # s.dependency 'Braintree'
 end
